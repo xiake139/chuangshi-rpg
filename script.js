@@ -1,5 +1,5 @@
 // ==================== 配置 ====================
-const API_BASE = 'https://chuangshi-rpg-production.up.railway.app/api';
+const API_BASE = 'https://chuangshi-rpg-production.up.railway.app';
 let token = localStorage.getItem('token') || null;
 let userId = localStorage.getItem('userId') || null;
 
